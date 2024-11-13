@@ -1,0 +1,1 @@
+This project is for learning rust through the book "Rust:zero to production". The codes are from the aforementioned book itself.
