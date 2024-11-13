@@ -1,2 +1,1 @@
-This is just a demo text to understand git functions.
-shdfgskdfhgskhgskdfjhks
+This is a demo file for understanding git use.
